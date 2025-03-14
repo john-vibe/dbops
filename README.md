@@ -261,9 +261,3 @@
     
     http://x.x.x.x:8081
     user:admin/admin
-
-## 七、联系方式
-
-    zhdn_791005@163.com
-
-![image](https://github.com/mafeicnnui/dbops/blob/master/static/doc/images/qq.png)
